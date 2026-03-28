@@ -1,3 +1,7 @@
+### The following people are Computer Programmers who are widely considered to be legends in their field
+###### They are listed out of order and with some of their more prominent accomplishments.
+
+
 - Ken Thompson
     - Designed and implemented the original Unix OS at Bell Labs (with Dennis Ritchie).
     - Invented the B programming language alongside Dennis Ritchie (predecessor to C).
@@ -38,4 +42,6 @@
     - Won the 1974 ACM Turing Award.
 
 - Steve Wozniak
-    - Sole inventor for numerous 
+    - Sole inventor for numerous Apple computer patents.
+    - Designed the Apple I and II computers (creating the first personal computers).
+    - Was top Tetris player for years (high score of 740,000)
