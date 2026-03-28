@@ -45,3 +45,17 @@
     - Sole inventor for numerous Apple computer patents.
     - Designed the Apple I and II computers (creating the first personal computers).
     - Was top Tetris player for years (high score of 740,000)
+ 
+- Richard Stallman
+    - Created the GNU project
+        - GCC
+        - Emacs
+        - GDB
+        - Glibc
+        - Make
+        - Tar
+        - GZIP
+        - diff
+        - Bison
+        - Contributed to Bash
+    - Invented the GPL license
