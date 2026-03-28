@@ -1,5 +1,5 @@
 ### The following people are Computer Programmers who are widely considered to be legends in their field
-##### They are listed out of order and with some of their more prominent accomplishments.
+#### They are listed out of order and with some of their more prominent accomplishments.
 
 
 - Ken Thompson
