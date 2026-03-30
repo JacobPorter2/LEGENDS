@@ -61,6 +61,34 @@
     - Invented the GPL license
  
 - Eugene Roshal
-    - Created WinRar
+    - Created WinRar by himself.
  
 - George Hotz
+    - First person to remove a SIM lock on iPhone (was 17 years old).
+    - Has published exploits for Playstation and Android.
+    - Founded comma.ai (advanced driver-assistance systems using machine learning).
+    - Founded tiny corp (port machine learning instruction sets to hardware accelerators).
+
+- Vitalik Buterin
+    - Created Etherium.
+
+- Larry Page
+    - Co-developed Google.
+
+- Andrew Tulloch
+    - Contributed important work at Meta and OpenAI for machine learning.
+    - Currently works at Meta Superintelligence Labs (MSL).
+
+- Mark Zuckerburg
+    - Developed Facebook.
+    - Created "ZuckNet" at 11 years old (program that lets computers talk to each other).
+
+- Ada Lovelace
+    
+- Grace Hopper
+
+- Edsger Dijkstra
+
+- Michael Abrash
+
+- JDH
