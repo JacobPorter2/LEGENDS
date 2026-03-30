@@ -59,3 +59,8 @@
         - Bison
         - Contributed to Bash
     - Invented the GPL license
+ 
+- Eugene Roshal
+    - Created WinRar
+ 
+- George Hotz
