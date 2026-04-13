@@ -84,7 +84,7 @@
     - Created "ZuckNet" at 11 years old (program that lets computers talk to each other).
 
 - Ada Lovelace
-    - First ever Computer Programmer.
+    - First ever Computer Programmer / Wrote the first computer program.
     - 
     
 - Grace Hopper
@@ -93,13 +93,37 @@
   - Wrote the first ever computer manual.
 
 - Edsger Dijkstra
+    - Invented Dijkstra's algorithm (shortest path in graphs).
+        - Which he reportedly worked out in 20 minutes at a cafe in Amsterdam.
+    
 
 - Michael Abrash
+    - Wrote the rendering code for Quake alongside John Carmack.
+    - Runs the team at Meta Reality Labs doing R&D for VR hardware and software.
 
 - JDH
+    - Has a YouTube channel where he:
+        - Builds Minecraft from scratch multiple times.
+        - Makes original games from scratch.
+        - Builds his own graphics card.
+        - Builds his own computer from scratch
+        - and many more.
 
 - Gabe Newell
+    - Co founded valve after leaving Microsoft.
+        - Worked at Microsoft on Windows releases.
+    - Led development of Half Life.
 
 - Claude Shannon
+    - Invented information theory
+    - Introduced bits as a unit of information with his 1948 paper "A Mathematical Theory of Communication,"
+    - Showed that Boolean algebra could describe electrical switching circuits with his earlier 1937 master's thesis.
+    - Contributed foundational work on cryptography during WWII.
+    - Built some of the earliest chess-playing and maze-solving machines.
+    - Had the most hype AI model named after him because of how cracked he was.
 
 - David Rosen
+    - Was the head programmer at Wolfire Games (Overgrowth video game).
+    - Started with HyperCard (1987 software to create applications) at the age of 6.
+    - Got job offers from Blizzard, Ubisoft, Raven, and Crytek at the age of 16.
+
