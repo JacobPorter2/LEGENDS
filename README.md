@@ -127,3 +127,7 @@
     - Started with HyperCard (1987 software to create applications) at the age of 6.
     - Got job offers from Blizzard, Ubisoft, Raven, and Crytek at the age of 16.
 
+- Ed Boon
+    - Solo / Lead programmer for Mortal Kombat back in the day.
+
+
