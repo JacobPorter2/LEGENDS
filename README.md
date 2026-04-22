@@ -1,7 +1,6 @@
 ### The following people are Computer Programmers who are widely considered to be legends in their field
 #### They are listed out of order and with some of their more prominent accomplishments.
 
-
 - Ken Thompson
     - Designed and implemented the original Unix OS at Bell Labs (with Dennis Ritchie).
     - Invented the B programming language alongside Dennis Ritchie (predecessor to C).
@@ -113,6 +112,7 @@
     - Co founded valve after leaving Microsoft.
         - Worked at Microsoft on Windows releases.
     - Led development of Half Life.
+    - Created Steam.
 
 - Claude Shannon
     - Invented information theory
