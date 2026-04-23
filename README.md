@@ -131,3 +131,9 @@
 ### Andrew Tulloch
 - Contributed important work at Meta and OpenAI for machine learning
 - Currently works at Meta Superintelligence Labs (MSL)
+### Alan Turing
+- Influental in the development of theoretical computer science.
+    - Providing a formalization of the concepts of:
+        - The algorithm
+        - Computation with the Turing machine
+
