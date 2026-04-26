@@ -64,8 +64,6 @@
 - Created the GNU project
   - GCC, Emacs, GDB, Glibc, Make, Tar, GZIP, diff, Bison, contributed to Bash
 - Invented the GPL license
-### Eugene Roshal
-- Created WinRAR by himself
 ---
  
 # Games & Graphics
