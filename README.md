@@ -96,8 +96,6 @@
   - Builds his own graphics card
   - Builds his own computer from scratch
   - And many more
-### Chris Sawyer
-- Created Rollercoaster Tycoon almost entirely in Assembly.
 ---
  
 # Platforms & Web
